@@ -6,9 +6,9 @@
 Meu primeiro projeto desenvolvido em Python durante meus estudos de programação.
 
 ## 📷 Demonstração
-
-![Calculadora de Economia](images/screenshot.png)
----
+<p align="center">
+  <img src="images/screenshot.png" width="700">
+</p>
 
 ## 📌 Objetivo
 
